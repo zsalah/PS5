@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Future Value of Investment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="investment_amount">Investment Amount</string>
+    <string name="future_value">Future Value</string>
+    <string name="button">Calculate</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string-array name="year_values">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+    </string-array>
+    <string name="year">Years</string>
+
+</resources>
